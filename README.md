@@ -6,14 +6,14 @@ ___
 
 # **SOMMAIRE** #
 
-**I** - *Tuto Mongo Shell*
-    **1)** *Fichiers installés et ouverture*
-    **2)** *Commandes de création de base, insertion des données et vérification*
+**I** - *Tuto Mongo Shell*  
+    **1)** *Fichiers installés et ouverture*  
+    **2)** *Commandes de création de base, insertion des données et vérification*  
 
-**II** - *CSV to MongoDB with Python*
-    **1)** *Fonction d'insertion*
-    **2)** *Insertion Movies*
-    **3)** *Vérification Mongo Compass*
+**II** - *CSV to MongoDB with Python*  
+    **1)** *Fonction d'insertion*  
+    **2)** *Insertion Movies*  
+    **3)** *Vérification Mongo Compass*  
     
 ___
 
